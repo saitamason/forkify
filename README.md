@@ -2,6 +2,8 @@
 
 **Search for recipes, bookmark them, and upload your own.**
 
+Live preview: https://dawidlehai-forkify.netlify.app/
+
 This project was created as a part of the [Udemy](https://www.udemy.com/ 'Udemy') course _The Complete JavaScript Course 2022: From Zero to Expert!_ by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman 'Jonas Schmedtmann on Twitter').
 
 In the project I used:
