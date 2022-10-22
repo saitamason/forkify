@@ -10,8 +10,8 @@ In the project I used:
 
 - Model-view-controller architecture
 - Object-oriented programming as well as functional programming paradigms
-- AJAX calls with [Forkify API v2](https://forkify-api.herokuapp.com/v2 'Forkify API v2')
 - Publisher-Subscriber Design Pattern to solve event handling problem
+- AJAX calls with [Forkify API v2](https://forkify-api.herokuapp.com/v2 'Forkify API v2')
 - [Fracty](https://npm.io/package/fracty 'Fracty Docs') NPM library to convert decimal numbers to fractions
 - [Parcel](https://parceljs.org/ 'Parcel') NPM build tool for development and production
 - [Node.js](https://nodejs.org/en/ 'Node.js') as a JS development environment
