@@ -4,7 +4,7 @@
 
 This project was created as a part of the [Udemy](https://www.udemy.com/ 'Udemy') course _The Complete JavaScript Course 2022: From Zero to Expert!_ by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman 'Jonas Schmedtmann on Twitter').
 
-In this project I used:
+In the project I used:
 
 - Model-view-controller architecture
 - Object-oriented programming as well as functional programming paradigms
