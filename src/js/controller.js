@@ -74,13 +74,9 @@ const controlAddRecipe = async function (newRecipe) {
     addRecipeView.renderSpinner();
 
     await model.uploadRecipe(newRecipe);
-
     recipeView.render(model.state.recipe);
-
     addRecipeView.renderMessage();
-
     bookmarksView.render(model.state.bookmarks);
-
     window.location.hash = model.state.recipe.id;
 
     await wait(MODAL_CLOSE_SECONDS);
