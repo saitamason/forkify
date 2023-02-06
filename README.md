@@ -6,7 +6,7 @@
 [<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="412px">](https://dawidlehai-forkify.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
-`JavaScript` `HTML` `CSS` `Fetch API` `Fracty` `Parcel`
+`JavaScript` `HTML` `Sass` `Fetch API` `Fracty` `Parcel`
 
 In the project I used:
 
