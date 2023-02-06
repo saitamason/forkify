@@ -2,7 +2,7 @@
 
 **Search for recipes, bookmark them, or upload your own.**
 
-## 💻 Screenshots
+## 💻 Screenshot
 [<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="412px">](https://dawidlehai-forkify.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
