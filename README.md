@@ -3,7 +3,7 @@
 **Search for recipes, bookmark them, or upload your own.**
 
 ## 💻 Screenshot
-[<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="412px">](https://dawidlehai-forkify.netlify.app/ 'Live preview')
+[<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="480px">](https://dawidlehai-forkify.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
 `JavaScript` `HTML` `Sass` `Fetch API` `Fracty` `Parcel`
