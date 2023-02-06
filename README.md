@@ -1,4 +1,4 @@
-# <picture><source media="(prefers-color-scheme: dark)" srcset="forkify-logo-light.webp"><source media="(prefers-color-scheme: light)" srcset="forkify-logo.webp"><img alt="Forkify logo" src="forkify-logo.webp" width="300"></picture>
+# <picture><source media="(prefers-color-scheme: dark)" srcset="forkify-logo-light.webp"><source media="(prefers-color-scheme: light)" srcset="forkify-logo.webp"><img alt="Forkify logo" src="forkify-logo.webp" width="250"></picture>
 
 **Search for recipes, bookmark them, or upload your own.**
 
