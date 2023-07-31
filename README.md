@@ -3,7 +3,7 @@
 **Search for recipes, bookmark them, or upload your own.**
 
 ## 💻 Screenshot
-[<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="480px">](https://dawidlehai-forkify.netlify.app/ 'Live preview')
+[<img src="forkify-screenshot.webp" alt="Screenshot of the Forkify app" width="480px">](https://saitama-forkify.netlify.app/ 'Live preview')
 
 ## 🛠️ Tools and technologies
 `JavaScript` `HTML` `Sass` `Fetch API` `Fracty` `Parcel`
@@ -22,7 +22,7 @@ In the project I used:
 ## 🌐 Deployment
 Deployed on `Netlify`.
 
-Live preview at [dawidlehai-forkify.netlify.app](https://dawidlehai-forkify.netlify.app/).
+Live preview at [saitama-forkify.netlify.app](https://saitama-forkify.netlify.app/).
 
 ## ℹ️ Instructions
 Try searching for examples for `pizza`, `avocado` or `cheese`. Then click on the recipe to display it. You can add recipes to bookmarks, change servings count and even add your own recipes!
